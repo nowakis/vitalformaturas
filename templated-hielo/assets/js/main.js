@@ -1,15 +1,11 @@
-/*
-	Hielo by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
 
 var settings = {
 
 	banner: {
 
 		// Indicators (= the clickable dots at the bottom).
-			indicators: true,
+			indicators: false,
 
 		// Transition speed (in ms)
 		// For timing purposes only. It *must* match the transition speed of "#banner > article".
