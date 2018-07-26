@@ -121,15 +121,15 @@
 		}
 
 		.container.\37 5\25 {
-			width: 48.75rem;
+			width: 48rem;
 		}
 
 		.container.\35 0\25 {
-			width: 32.5rem;
+			width: 32rem;
 		}
 
 		.container.\32 5\25 {
-			width: 16.25rem;
+			width: 16rem;
 		}
 
 		.container {
@@ -4041,8 +4041,8 @@
 
 		.banner.half {
 			padding: 0;
-			min-height: 50vh;
-			height: 50vh !important;
+			min-height: 100vh;
+			height: 100vh !important;
 		}
 
 		.banner:after {
@@ -4225,8 +4225,8 @@
 
 			.banner.full {
 				padding: 0;
-				min-height: 75vh;
-				height: 75vh !important;
+				min-height: 100vh;
+				height: 100vh !important;
 			}
 
 		}
@@ -4235,8 +4235,8 @@
 
 			.banner.full {
 				padding: 0;
-				min-height: 50vh;
-				height: 50vh !important;
+				min-height: 100vh;
+				height: 100vh !important;
 			}
 
 			.banner > article {
